@@ -1,0 +1,7 @@
+#Sun Apr 15 16:18:31 KST 2018
+base.0=C\:\\Users\\Sue\\AndroidStudioProjects\\Calc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Sue\\AndroidStudioProjects\\Calc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27
